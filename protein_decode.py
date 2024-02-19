@@ -13,6 +13,8 @@ codons =  {
             "UCU": "Serine",
             "UUA": "Leucine ",
             "UAA": "stop",
+            "UAG":"stop",
+              "UGA":"stop",
             "UCU": "Serine",
             "UCC": "Serine",
             "UCA": "Serine",
