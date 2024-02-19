@@ -94,6 +94,6 @@ elif user_input_lower == 'bond':
         print('----------------------------------------------------------------------------------------------------------')
         print('')
         print('----------------------------------------------------------------------------------------------------------')
-        print("If you wish to speak to our banker, please make an appointment at reception")
+        print("If you wish to speak to our banker, please make an appointment at reception for monday and wednedsday")
         print('----------------------------------------------------------------------------------------------------------')
         
