@@ -93,4 +93,7 @@ elif user_input_lower == 'bond':
         print("The interest appears to be high. May we suggest that you lower the rate and/or extend period of payment")
         print('----------------------------------------------------------------------------------------------------------')
         print('')
+        print('----------------------------------------------------------------------------------------------------------')
+        print("If you wish to speak to our banker, please make an appointment at reception")
+        print('----------------------------------------------------------------------------------------------------------')
         
